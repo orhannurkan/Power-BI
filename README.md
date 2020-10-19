@@ -1,4 +1,5 @@
 #Using Power BI
+
 1 - make an online Power BI subscription
 2 - Power BI Desktop(download): have to use to create relations between tables
 3 - activate 60days free power BI Pro membership (Optional)
@@ -8,6 +9,7 @@
 
 
 #Power BI Project steps
+
 	When preparing a report, the most important thing is to meet the requests of the users as possible.
 1 - interviews 	: Obtaining the information they want to see from the users or the project owner and how they want to see
 2 - empati 	: If this is not possible, goals are set with empathy for target user groups
