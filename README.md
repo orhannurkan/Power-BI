@@ -31,7 +31,7 @@ When preparing a report, the most important thing is to meet the requests of the
 	6. Graphics	: Filters can also be used as an axis for charts and tables if desired, and any other information can be placed on the other axis.
 	7. Complexity	: Tables to be displayed in the report can be categorized and displayed on different pages if they do not fit on one page.
 	8. Daily use	: In the dashboard, each report can be added in the desired order so that all reports can be viewed on a single page by scrolling down.
-	9. sort order	: In the table view, users can sort the data according to the column they want.
+	9. Sort order	: In the table view, users can sort the data according to the column they want.
 
 As a result, users get the reports they want by playing with filters.
 Note: You can use Power BI services from a desktop program, browser or mobile app.
