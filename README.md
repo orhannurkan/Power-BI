@@ -1,4 +1,4 @@
-#Using Power BI
+# Using _Power BI_
 
 1 - make an online Power BI subscription
 2 - Power BI Desktop(download): have to use to create relations between tables
@@ -8,7 +8,7 @@
 6 - Prepare reports online or in Power BI Desktop. 3. option is Power BI Report Builder(optional download)
 
 
-#Power BI Project steps
+# Power BI _Project Steps_
 
 	When preparing a report, the most important thing is to meet the requests of the users as possible.
 1 - interviews 	: Obtaining the information they want to see from the users or the project owner and how they want to see
