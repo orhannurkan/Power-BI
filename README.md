@@ -1,36 +1,37 @@
-# Using _Power BI_
+# Using *Power BI*
 
-1 - make an online Power BI subscription
-2 - Power BI Desktop(download): have to use to create relations between tables
-3 - activate 60days free power BI Pro membership (Optional)
-4 - get data to Power BI Desktop and make relations
-5 - Publish your data model (and report if you did it offline)
-6 - Prepare reports online or in Power BI Desktop. 3. option is Power BI Report Builder(optional download)
+	1. Make an online Power BI subscription
+	2. Power BI Desktop(download): have to use to create relations between tables
+	3. Activate 60days free power BI Pro membership (Optional)
+	4. Get data to Power BI Desktop and make relations
+	5. Publish your data model (and report if you did it offline)
+	6. Prepare reports online or in Power BI Desktop. 3. option is Power BI Report Builder(optional download)
 
 
-# Power BI _Project Steps_
+# *Power BI* Project Steps
 
-	When preparing a report, the most important thing is to meet the requests of the users as possible.
-1 - interviews 	: Obtaining the information they want to see from the users or the project owner and how they want to see
-2 - empati 	: If this is not possible, goals are set with empathy for target user groups
-3 - collection	: Existing data files should be examined in detail,
-	If special characters (such as,:; /. -) are not paid attention before data transfer, correct transfer could not be made,
-	After the transfer, it should be checked whether the targeted record number of each record is correct and the column information is in the right place,
-	Duplicate records should be deleted,
-	Removing non-integrity data from data sets in order for reports to provide accurate information,
-	Data types should be corrected as date, currency, number (decimal and thousand separators)
-	Some columns can be split into multiple columns and/or additional new columns can be created for some calculations,
-	Relationships between tables should be checked and corrected if there are mistakes,
-	New tables can be created according to needs,
-	And consequently, the data set should be understood and edited correctly
-4 - goal	: How are the reports requested with the existing data carried out?
-5 - generators	: All filters that can be included in the report must be presented to the user.
-	A report without a filter is a static report that does not change unless the data is changed
-	A report with filters means hundreds, thousands, or even more static reports,
-6 - grafikler	: Filters can also be used as an axis for charts and tables if desired, and any other information can be placed on the other axis.
-7 - complexity	: Tables to be displayed in the report can be categorized and displayed on different pages if they do not fit on one page.
-8 - daily use	: In the dashboard, each report can be added in the desired order so that all reports can be viewed on a single page by scrolling down.
-9 - sort order	: In the table view, users can sort the data according to the column they want.
+When preparing a report, the most important thing is to meet the requests of the users as possible.
+
+	1. Interviews 	: Obtaining the information they want to see from the users or the project owner and how they want to see
+	2. Empathy 	: If this is not possible, goals are set with empathy for target user groups
+	3. Collection	: Existing data files should be examined in detail,
+		+ If special characters (such as,:; /. -) are not paid attention before data transfer, correct transfer could not be made,
+		+ After the transfer, it should be checked whether the targeted record number of each record is correct and the column information is in the right place,
+		+ Duplicate records should be deleted,
+		+ Removing non-integrity data from data sets in order for reports to provide accurate information,
+	 	+ Data types should be corrected as date, currency, number (decimal and thousand separators)
+		+ Some columns can be split into multiple columns and/or additional new columns can be created for some calculations,
+		+ Relationships between tables should be checked and corrected if there are mistakes,
+		+ New tables can be created according to needs,
+		+ And consequently, the data set should be understood and edited correctly
+	4. Goal		: How are the reports requested with the existing data carried out?
+	5. Generators	: All filters that can be included in the report must be presented to the user.
+		+ A report without a filter is a static report that does not change unless the data is changed
+		+ A report with filters means hundreds, thousands, or even more static reports,
+	6. Graphics	: Filters can also be used as an axis for charts and tables if desired, and any other information can be placed on the other axis.
+	7. Complexity	: Tables to be displayed in the report can be categorized and displayed on different pages if they do not fit on one page.
+	8. Daily use	: In the dashboard, each report can be added in the desired order so that all reports can be viewed on a single page by scrolling down.
+	9. sort order	: In the table view, users can sort the data according to the column they want.
 
 As a result, users get the reports they want by playing with filters.
 Note: You can use Power BI services from a desktop program, browser or mobile app.
