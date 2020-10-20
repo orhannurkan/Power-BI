@@ -57,9 +57,9 @@ Three learners and collaborators elaborated the project contained in this repo: 
 
 ### Data report
 
-The data report can be found in the [fotg_powerBI file](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf).
+The data report can be found in the [fotg_powerBI file](https://github.com/orhannurkan/Power-BI/blob/master/fotg_powerBI.pdf).
 
-![Alt Text](https://github.com/silventesa/accenture_usecase/blob/master/team_assets/Report1.gif)
+![Alt Text](https://github.com/orhannurkan/Power-BI/blob/master/Report1.gif)
 
 ### Dataset
 
